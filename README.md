@@ -12,6 +12,19 @@ Since FARSA requires Qt4 libraries, which have been deprecated in Ubuntu 20.04, 
 
 https://ubuntuhandbook.org/index.php/2020/07/install-qt4-ubuntu-20-04/
 
-To cite this repository, please use this citation:
+To cite this repository, please use:
 
-Pagliuca, P. Learning and Evolution: Factors Influencing an Effective Combination. AI 2024, 1, pp. 1-43.
+Pagliuca, P. (2024). Learning and evolution: factors influencing an effective combination. AI, 5(4), 2393-2432.
+
+Bibtex:
+
+@article{pagliuca2024learning,
+  title={Learning and evolution: factors influencing an effective combination},
+  author={Pagliuca, Paolo},
+  journal={AI},
+  volume={5},
+  number={4},
+  pages={2393--2432},
+  year={2024},
+  publisher={MDPI}
+}
