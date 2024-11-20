@@ -18,6 +18,7 @@ Pagliuca, P. (2024). Learning and evolution: factors influencing an effective co
 
 Bibtex:
 
+```
 @article{pagliuca2024learning,
   title={Learning and evolution: factors influencing an effective combination},
   author={Pagliuca, Paolo},
@@ -28,3 +29,4 @@ Bibtex:
   year={2024},
   publisher={MDPI}
 }
+```
