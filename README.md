@@ -12,11 +12,11 @@ Since FARSA requires Qt4 libraries, which have been deprecated in Ubuntu 20.04, 
 
 https://ubuntuhandbook.org/index.php/2020/07/install-qt4-ubuntu-20-04/
 
-To cite this repository, please use:
+To cite this repository in your publications, please use:
 
 Pagliuca, P. (2024). Learning and evolution: factors influencing an effective combination. AI, 5(4), 2393-2432.
 
-Bibtex:
+BibTex:
 
 ```
 @article{pagliuca2024learning,
